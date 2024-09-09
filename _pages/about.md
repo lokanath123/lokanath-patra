@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is Lokanath Patra, and I am a Research Engineer II at the George W. Woodruff School of Mechanical Engineering, Georgia Institute of Technology. I received my Master’s degree in Physics from Pondicherry University, India, in 2013, followed by a Ph.D. in Physics from the Central University of Tamil Nadu, India, in 2019, under the supervision of Prof. P. Ravindran.
+
+My research focuses on first-principles modeling of magnetic and magnetoelectric multiferroic materials. In 2020, I joined Prof. Ravindra Pandey’s lab at Michigan Technological University, where I explored the mechanical stability and response of 2D materials. From December 2021 to July 2024, I worked at the University of California, Santa Barbara, as part of TEALab, where I developed advanced computational techniques to model solid-state magnetic refrigeration and contributed to the discovery of next-generation materials for magnetic refrigeration applications.
+
+Beyond research, I enjoy biking, hiking, cooking, cricket, and movies.
 
 A data-driven personal website
 ======
