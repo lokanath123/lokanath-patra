@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I am a passionate researcher in the field of materials modeling, specializing in the application of density functional theory to understand the properties of materials at the micro and nanoscale. Currently, I am a Research Engineer II at the [George W. Woodruff School of Mechanical Engineering, Georgia Institute of Technology](https://www.me.gatech.edu/). My work focuses on addressing challenges in sustainable energy and technological applications, with a strong commitment to translating fundamental studies into efficient, cost-effective technologies that reduce carbon emissions and secure our future energy needs.
+
+In addition, I am dedicated to fostering an inclusive and collaborative research environment. I believe in the importance of translating theoretical knowledge into practical applications that can drive societal change. Outside of my research, I enjoy mentoring students and helping them develop the skills needed to succeed in both academic and professional settings.
 
 My name is Lokanath Patra, and I am a Research Engineer II at the [George W. Woodruff School of Mechanical Engineering, Georgia Institute of Technology](https://www.me.gatech.edu/). I received my Master’s degree in Physics from [Pondicherry University](https://www.pondiuni.edu.in/), India, in 2013, followed by a PhD in Physics from the [Central University of Tamil Nadu](https://cutn.ac.in/), India, in 2019.
 My research is centred on modeling material properties at the micro and nanoscale, using density functional theory to address challenges in sustainable energy and technological applications. I'm deeply committed to leveraging the insights from these foundational studies to create more efficient, cost-effective sustainable energy solutions that reduce carbon emissions and ensure a reliable energy future.
