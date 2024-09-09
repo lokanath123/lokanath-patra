@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Lokanath Patra, and I am a Research Engineer II at the George W. Woodruff School of Mechanical Engineering, Georgia Institute of Technology. I received my Master’s degree in Physics from Pondicherry University, India, in 2013, followed by a Ph.D. in Physics from the Central University of Tamil Nadu, India, in 2019, under the supervision of Prof. P. Ravindran.
+My name is Lokanath Patra, and I am a Research Engineer II at the [George W. Woodruff School of Mechanical Engineering, Georgia Institute of Technology](https://www.me.gatech.edu/). I received my Master’s degree in Physics from [Pondicherry University](https://www.pondiuni.edu.in/), India, in 2013, followed by a PhD in Physics from the [Central University of Tamil Nadu](https://cutn.ac.in/), India, in 2019.
+My research is centred on modeling material properties at the micro and nanoscale, using density functional theory to address challenges in sustainable energy and technological applications. I'm deeply committed to leveraging the insights from these foundational studies to create more efficient, cost-effective sustainable energy solutions that reduce carbon emissions and ensure a reliable energy future.
 
-My research focuses on first-principles modeling of magnetic and magnetoelectric multiferroic materials. In 2020, I joined Prof. Ravindra Pandey’s lab at Michigan Technological University, where I explored the mechanical stability and response of 2D materials. From December 2021 to July 2024, I worked at the University of California, Santa Barbara, as part of TEALab, where I developed advanced computational techniques to model solid-state magnetic refrigeration and contributed to the discovery of next-generation materials for magnetic refrigeration applications.
 
 Beyond research, I enjoy biking, hiking, cooking, cricket, and movies.
 
